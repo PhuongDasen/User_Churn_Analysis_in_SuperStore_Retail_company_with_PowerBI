@@ -38,5 +38,9 @@
 </ul>
 <h1>V. Recommendations</h1>
 <ul>
-  <li>Need to improve</li>
+  <li>Need to improve customer service: optimize the problem-solving process: quickly for customers, avoid the situation that customsers call many times without solving the problem.</li>
+  <li>It is necessary to have online + phone consultants to solve the problems that customers encounter.</li>
+  <li>Customers who sign up for a month to month contract need to have incentives for: top up, preferential data packages to retain this group of customers.</li>
+  <li>Need to improve the unlimited data package in terms of price or create a really preferential data package for the group of customers who need to use from 0 to 10 gb monthly.</li>
+  <li>Create great offers for new customers, but also have incentives and gratitude for loxal cuatomers, but customers churn because competitors are better than our company 45% of the reason for churn.</li>
 </ul>
