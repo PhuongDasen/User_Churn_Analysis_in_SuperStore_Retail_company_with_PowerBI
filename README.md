@@ -1,5 +1,5 @@
 [POWER BI] User Churn Analysis
-<h1>Introduction</h1>
+<h1>I. Introduction</h1>
 <h3>1. Introduction to Dataset</h3>
 <ul>
   <li>User churn refers to the phenomenon of customers or users of a product or service disengaging or ceasing to use it over time, which can be detrimental to the business.</li>
@@ -29,3 +29,14 @@
 <img width="1000" alt="Screenshot 2025-05-14 at 09 40 29" src="https://github.com/user-attachments/assets/75772cbc-aaea-429e-a2bf-acc550a6c888" />
 <h3>4. Ask a question related to the data</h3>
 <img width="1000" alt="Screenshot 2025-05-14 at 09 40 53" src="https://github.com/user-attachments/assets/94b68734-de27-4802-a4b1-77f84acb8b73" />
+<h1>IV. Insights</h1>
+<ul>
+  <li>Competitors have better offers + prices than our company.</li>
+  <li>Our customer service is not good, churn customers have a much higher avg customer service call rate = 2.4 than average.</li>
+  <li>Customers who use 0-10 gb of monthly download and subscribe to Unlimited Data plan have a higher churn rate than teh rest of the group.</li>
+  <li>Customers with "month to minth" contracts have a high churn rate of almost 90%.</li>
+</ul>
+<h1>V. Recommendations</h1>
+<ul>
+  <li>Need to improve</li>
+</ul>
