@@ -11,5 +11,12 @@
 <h3>3. Business Questions</h3>
 <ul>
   <li>Create an overview dashboard for managers that displays the churn status of users and helps identify which users are part of th churn group.</li>
+  <li>Develop solutions to improve the situation and reduce user churn.</li>
 </ul>
-
+<h1>II. Design Thinking Method</h1>
+<b>Here are the five steps of design thinking:</b>
+<h3>Step 1 - Empathize</h3>
+<h3>Step 2 - Define</h3>
+<h3>Step 3 - Ideate</h3>
+<h3>Step 4 - Prototype</h3>
+<h3>Step 5 - Review</h3>
