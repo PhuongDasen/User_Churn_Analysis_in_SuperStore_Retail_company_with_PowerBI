@@ -16,10 +16,15 @@
 <h1>II. Design Thinking Method</h1>
 <b>Here are the five steps of design thinking:</b>
 <h3>Step 1 - Empathize</h3>
+<img width="825" alt="Screenshot 2025-05-22 at 09 18 20" src="https://github.com/user-attachments/assets/00ddc19a-57fb-42fa-8e5b-0b5de45fc272" />
 <h3>Step 2 - Define</h3>
+<img width="827" alt="Screenshot 2025-05-22 at 09 18 30" src="https://github.com/user-attachments/assets/0a958352-800a-44cb-8452-121cc618df35" />
 <h3>Step 3 - Ideate</h3>
+<img width="827" alt="Screenshot 2025-05-22 at 09 18 43" src="https://github.com/user-attachments/assets/5e44e451-2e8a-44f4-8e04-68bc7b31f4e7" />
 <h3>Step 4 - Prototype</h3>
+<img width="830" alt="Screenshot 2025-05-22 at 09 18 52" src="https://github.com/user-attachments/assets/8ea64593-f592-4e34-b560-71a455561171" />
 <h3>Step 5 - Review</h3>
+<img width="829" alt="Screenshot 2025-05-22 at 09 19 02" src="https://github.com/user-attachments/assets/66d9673b-7383-4167-88d1-188ebb6fa831" />
 <h1>III. Visualization</h1>
 <h3>1. Customer churn overview</h3>
 <img width="1000" alt="Screenshot 2025-05-14 at 13 50 05" src="https://github.com/user-attachments/assets/ff453069-5099-4349-8a0c-becb7ab06e3d" />
