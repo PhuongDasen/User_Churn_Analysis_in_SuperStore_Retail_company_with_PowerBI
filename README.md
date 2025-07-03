@@ -49,13 +49,11 @@ The dataset consists of three tables:
 <img width="1500" alt="Screenshot 2025-07-02 at 8 38 03 PM" src="https://github.com/user-attachments/assets/3fc1168d-6c3a-4249-b3b6-223d735fb081" />
 <br>
 </details>
-
 <details>
 <summary>🔽 Table 3: People – Holds information about sales representatives</summary>
 <img width="1500" alt="Screenshot 2025-07-02 at 8 38 28 PM" src="https://github.com/user-attachments/assets/1a60b3da-e5f5-4083-bf3d-eca8ed202f13" />
 <br>
 </details>
-
 <details>
 <summary>🔽 Data Dictionary</summary>
 <img width="1000" alt="Screenshot 2025-07-02 at 8 38 28 PM" src= "https://github.com/user-attachments/assets/39e9f4b3-8e71-453c-abd8-3384d7b1bb0b" />
@@ -66,19 +64,22 @@ The dataset consists of three tables:
 ## 2️⃣ Data Relationships:
 <img width="1500" alt="Screenshot 2025-07-02 at 8 49 25 PM" src="https://github.com/user-attachments/assets/58e02e22-a7ed-48d4-86a9-162d1bc386ca" /><br>
 ---
-## [🧠 Design Thinking Process](#design-thinking-process)
+## 🧠 Design Thinking Process
+
 <b>Here are the five steps of design thinking:</b>
+
 <h3>Step 1 - Empathize</h3>
-<img width="825" alt="Screenshot 2025-05-22 at 09 18 20" src="https://github.com/user-attachments/assets/00ddc19a-57fb-42fa-8e5b-0b5de45fc272" />
+<img width="1000" alt="Screenshot 2025-05-22 at 09 18 20" src="https://github.com/user-attachments/assets/00ddc19a-57fb-42fa-8e5b-0b5de45fc272" />
 <h3>Step 2 - Define</h3>
-<img width="827" alt="Screenshot 2025-05-22 at 09 18 30" src="https://github.com/user-attachments/assets/0a958352-800a-44cb-8452-121cc618df35" />
+<img width="1000" alt="Screenshot 2025-05-22 at 09 18 30" src="https://github.com/user-attachments/assets/0a958352-800a-44cb-8452-121cc618df35" />
 <h3>Step 3 - Ideate</h3>
-<img width="827" alt="Screenshot 2025-05-22 at 09 18 43" src="https://github.com/user-attachments/assets/5e44e451-2e8a-44f4-8e04-68bc7b31f4e7" />
+<img width="1000" alt="Screenshot 2025-05-22 at 09 18 43" src="https://github.com/user-attachments/assets/5e44e451-2e8a-44f4-8e04-68bc7b31f4e7" />
 <h3>Step 4 - Prototype</h3>
-<img width="830" alt="Screenshot 2025-05-22 at 09 18 52" src="https://github.com/user-attachments/assets/8ea64593-f592-4e34-b560-71a455561171" />
+<img width="1000" alt="Screenshot 2025-05-22 at 09 18 52" src="https://github.com/user-attachments/assets/8ea64593-f592-4e34-b560-71a455561171" />
 <h3>Step 5 - Review</h3>
-<img width="829" alt="Screenshot 2025-05-22 at 09 19 02" src="https://github.com/user-attachments/assets/66d9673b-7383-4167-88d1-188ebb6fa831" />
-<h2>III. Visualization</h2>
+<img width="1000" alt="Screenshot 2025-05-22 at 09 19 02" src="https://github.com/user-attachments/assets/66d9673b-7383-4167-88d1-188ebb6fa831" />
+
+## 📊 Key Insights & Visualizations
 <h3>1. Customer churn overview</h3>
 <img width="1000" alt="Screenshot 2025-05-14 at 13 50 05" src="https://github.com/user-attachments/assets/ff453069-5099-4349-8a0c-becb7ab06e3d" />
 <h3>2. Customer dashboard: personal details, contract, Service, Churn details</h3>
@@ -88,37 +89,15 @@ The dataset consists of three tables:
 <h3>4. Ask a question related to the data</h3>
 <img width="1000" alt="Screenshot 2025-05-14 at 09 40 53" src="https://github.com/user-attachments/assets/94b68734-de27-4802-a4b1-77f84acb8b73" />
 
-## [📊 Key Insights & Visualizations](#key-insights--visualizations)
-
-<h2>1. Profit Analysis </h2>
-<img width="1804" alt="Screenshot 2025-05-05 at 13 22 42" src=/><br>
-<h2>2. Best-selling product </h2>
-<img width="1807" alt="Screenshot 2025-05-05 at 13 21 02" src= /><br>
-<h2>3. Person and ship </h2>
-<img width="1801" alt="Screenshot 2025-05-05 at 13 21 14" src= /><br>
-<h1>IV. Insights and strategic recommendations</h1>
-<h3>💡 Insights </h3>
-
-
-  
-
-
-
-
-
-
-
-
-<h2>II. Design Thinking Method</h2>
-
-<h2>IV. Insights</h2>
+## 🔍 Final Conclusion
 <ul>
   <li>Competitors have better offers + prices than our company.</li>
   <li>Our customer service is not good, churn customers have a much higher avg customer service call rate = 2.4 than average.</li>
   <li>Customers who use 0-10 gb of monthly download and subscribe to Unlimited Data plan have a higher churn rate than teh rest of the group.</li>
   <li>Customers with "month to minth" contracts have a high churn rate of almost 90%.</li>
 </ul>
-<h2>V. Recommendations</h2>
+
+## 🔍 Recommendations
 <ul>
   <li>Need to improve customer service: optimize the problem-solving process: quickly for customers, avoid the situation that customsers call many times without solving the problem.</li>
   <li>It is necessary to have online + phone consultants to solve the problems that customers encounter.</li>
