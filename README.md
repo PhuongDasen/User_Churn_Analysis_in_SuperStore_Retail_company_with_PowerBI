@@ -6,8 +6,6 @@
 Author: Phuong Dasen<br>
 Tool: PowerBI
 
-
-
 ## 📌 Table of Contents
 - [📌 Background & Overview](#-background--overview)
 - [📁 Dataset Description & Data Structure](#-dataset-description--data-structure)
@@ -25,12 +23,13 @@ Tool: PowerBI
 - Senior management, including sales and regional directors.<br>  
 
 ## ❓ Business questions<br>
-- Which regions, categories, and products generate the most sales and profit? <br>
-- Where are the gaps or opportunities for improving performance or expanding into new markets?<br>
+	1.	Who are the customers most at risk of churning?<br>
+	2.	Why are customers leaving the company?<br>
+	3.	What actions can reduce customer churn and improve retention?<br>
 
 ## [📁 Dataset Description & Data Structure](#dataset-description--data-structure)
 ## 📌 Data Source
-* Source : Kaggle<br>
+* Source : Superstore Sales dataset<br>
 * Size:<br>
         - The Orders table contains 51,290 records<br>
         - The People table contains 13 records<br>
