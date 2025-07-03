@@ -13,7 +13,7 @@ Tool: PowerBI
 - [📊 Key Insights & Visualizations](#-key-insights--visualizations)
 - [🔍 Final Conclusion & Recommendations](#-final-conclusion--recommendations) 
   
-## 📌 Background & Overview
+## [📌 Background & Overview](#-background--overview)
 
 ## 🔍 What is this project about?<br>
 - This project analyzes user churn using Power BI to uncover patterns, behaviors, and reasons behind customer attrition.<br>
@@ -64,7 +64,7 @@ The dataset consists of three tables:
 ## 2️⃣ Data Relationships:
 <img width="1500" alt="Screenshot 2025-07-02 at 8 49 25 PM" src="https://github.com/user-attachments/assets/58e02e22-a7ed-48d4-86a9-162d1bc386ca" /><br>
 ---
-## 🧠 Design Thinking Process
+## [🧠 Design Thinking Process](#-design-thinking-process)
 
 <b>Here are the five steps of design thinking:</b>
 
@@ -79,7 +79,7 @@ The dataset consists of three tables:
 <h3>Step 5 - Review</h3>
 <img width="1000" alt="Screenshot 2025-05-22 at 09 19 02" src="https://github.com/user-attachments/assets/66d9673b-7383-4167-88d1-188ebb6fa831" />
 
-## 📊 Key Insights & Visualizations
+## [📊 Key Insights & Visualizations](#-key-insights--visualizations)
 <h3>1. Customer churn overview</h3>
 <img width="1000" alt="Screenshot 2025-05-14 at 13 50 05" src="https://github.com/user-attachments/assets/ff453069-5099-4349-8a0c-becb7ab06e3d" />
 <h3>2. Customer dashboard: personal details, contract, Service, Churn details</h3>
@@ -89,7 +89,7 @@ The dataset consists of three tables:
 <h3>4. Ask a question related to the data</h3>
 <img width="1000" alt="Screenshot 2025-05-14 at 09 40 53" src="https://github.com/user-attachments/assets/94b68734-de27-4802-a4b1-77f84acb8b73" />
 
-## 🔍 Final Conclusion
+## [🔍 Final Conclusion & Recommendations](#-final-conclusion--recommendations) 
 <ul>
   <li>Competitors have better offers + prices than our company.</li>
   <li>Our customer service is not good, churn customers have a much higher avg customer service call rate = 2.4 than average.</li>
@@ -97,7 +97,7 @@ The dataset consists of three tables:
   <li>Customers with "month to minth" contracts have a high churn rate of almost 90%.</li>
 </ul>
 
-## 🔍 Recommendations
+## Recommendations
 <ul>
   <li>Need to improve customer service: optimize the problem-solving process: quickly for customers, avoid the situation that customsers call many times without solving the problem.</li>
   <li>It is necessary to have online + phone consultants to solve the problems that customers encounter.</li>
