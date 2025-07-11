@@ -82,25 +82,42 @@ The dataset consists of three tables:
 ## [📊 Key Insights & Visualizations](#-key-insights--visualizations)
 <h3>1. Customer Churn Overview</h3>
 <img width="1550" height="700" alt="Screenshot 2025-07-11 at 5 27 50 PM" src="https://github.com/user-attachments/assets/4157f599-a41a-46ab-99d1-a29c99b564b2" /><br>
+ 
+### 🔍 Key Insights
 
+🟢 Customer Profile (Left Side)<br>
+	•	👤 Age Group: 81% of customers are over 30 years old, showing a mature user base.<br>
+	•	📈 Customer Tenure: 26% of customers joined within the last 10 months, suggesting steady acquisition.<br>
+	•	🌍 Service Usage: UDP service has the highest usage at 67%, followed by DP&OB at 34%.<br>
+	•	💳 Payment Preference: 55% of customers use Direct Debit, making it the most common payment method.<br>
+	•	📄 Contract Type: Over half (51%) are on month-to-month contracts—indicating lower long-term commitment.<br>
+
+⸻
+
+🔴 Churner Profile (Right Side)<br>
+	•	⚠️ Tenure Risk: 49% of churners left within the first 10 months—early churn is a major issue.<br>
+	•	🧾 Contract Type: A striking 87.92% of churners were on month-to-month contracts.<br>
+	•	🧍 Demographic: 84% of churners are over 30, slightly higher than the general population.<br>
+	•	💳 Payment Shift: 71% of churners used Direct Debit—despite being the dominant method, it’s not sticky.<br>
+	•	📉 Service Dissatisfaction: Higher churn rates correlate with UDP (80%) and Intl Active (49%) services.<br>
+ 
 <h3>2. Customer Detail Profiles</h3>
 <img width="1550" height="700" alt="Screenshot 2025-07-11 at 5 31 05 PM" src="https://github.com/user-attachments/assets/8f39d93e-b18e-4a73-a1d7-f38fa5736edc" />
 <br>
 
+### 🔎 Customer Detail Profile – Deep Dive into Churn Reasons<br>
 
-## [🔍 Final Conclusion & Recommendations](#-final-conclusion--recommendations) 
-<ul>
-  <li>Competitors have better offers + prices than our company.</li>
-  <li>Our customer service is not good, churn customers have a much higher avg customer service call rate = 2.4 than average.</li>
-  <li>Customers who use 0-10 gb of monthly download and subscribe to Unlimited Data plan have a higher churn rate than teh rest of the group.</li>
-  <li>Customers with "month to minth" contracts have a high churn rate of almost 90%.</li>
-</ul>
+📉 Churn Reason Breakdown<br>
+	•	🥇 Top Reason: 45.51% churned due to competitors, primarily due to better offers or devices.<br>
+	•	😤 Support Issues: 16.22% cited poor attitude from support staff—highlighting a customer service gap.<br>
+	•	😒 Dissatisfaction: 16.17% left due to general service dissatisfaction.<br>
+	•	💸 Price Sensitivity: 11.31% churned due to pricing issues, despite average monthly charge being low.<br>
+	•	❓ Unknown Causes: 10.8% churned for “Other/Unknown” reasons—suggesting missing data or unclear survey results.<br>
+ 
+## ✅ Recommendations for Action
 
-## Recommendations
-<ul>
-  <li>Need to improve customer service: optimize the problem-solving process: quickly for customers, avoid the situation that customsers call many times without solving the problem.</li>
-  <li>It is necessary to have online + phone consultants to solve the problems that customers encounter.</li>
-  <li>Customers who sign up for a month to month contract need to have incentives for: top up, preferential data packages to retain this group of customers.</li>
-  <li>Need to improve the unlimited data package in terms of price or create a really preferential data package for the group of customers who need to use from 0 to 10 gb monthly.</li>
-  <li>Create great offers for new customers, but also have incentives and gratitude for loxal cuatomers, but customers churn because competitors are better than our company 45% of the reason for churn.</li>
-</ul>
+	•	🔄 Introduce Loyalty Incentives: Convert more customers to annual or biannual contracts to reduce early churn.<br>
+	•	📞 Upgrade Support Services: Train support staff and implement satisfaction surveys to improve customer experience.<br>
+	•	💼 Competitive Benchmarking: Regularly monitor competitors’ offers to stay competitive in pricing and device quality.<br>
+	•	📊 Segment Targeting: Focus retention strategies on new customers and those on UDP/Intl Active plans.<br>
+	•	❔ Enrich Exit Surveys: Enhance churn feedback collection to reduce “unknown” churn reasons and tailor future strategies.<br>
