@@ -2,7 +2,7 @@
   <img src= "https://github.com/user-attachments/assets/c2444c9b-f7b0-46bc-b5c6-06ff811fb160" width="100%">
 </p>
 
-<h1>👥⚠️ User Churn Analysis by PowerBI</h1>
+<h1>👥⚠️ User Churn Analysis in SuperStore Retail company with PowerBI</h1>
 Author: Phuong Dasen<br>
 Tool: PowerBI
 
@@ -16,7 +16,7 @@ Tool: PowerBI
 ## [📌 Background & Overview](#-background--overview)
 
 ## 🔍 What is this project about?<br>
-- This project analyzes user churn using Power BI to uncover patterns, behaviors, and reasons behind customer attrition.<br>
+- This project analyzes user churn using Power BI through Superstore Sales dataset - a global detail company in consumer, technoloy, furniture to uncover patterns, behaviors, and reasons behind customer attrition.<br>
 - It visualizes key indicators such as demographic profiles, service usage, contract types, and churn reasons to support strategic decision-making.<br>
 
 ## 👤 Who is this project for?<br>
