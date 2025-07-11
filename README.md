@@ -80,14 +80,13 @@ The dataset consists of three tables:
 <img width="1000" alt="Screenshot 2025-05-22 at 09 19 02" src="https://github.com/user-attachments/assets/66d9673b-7383-4167-88d1-188ebb6fa831" />
 
 ## [📊 Key Insights & Visualizations](#-key-insights--visualizations)
-<h3>1. Customer churn overview</h3>
-<img width="1000" alt="Screenshot 2025-05-14 at 13 50 05" src="https://github.com/user-attachments/assets/ff453069-5099-4349-8a0c-becb7ab06e3d" />
-<h3>2. Customer dashboard: personal details, contract, Service, Churn details</h3>
-<img width="1000" alt="Screenshot 2025-05-14 at 09 40 1" src="https://github.com/user-attachments/assets/a75c2a79-710c-4592-8431-02dc611dc3a5" />
-<h3>3. Churn reasons </h3>
-<img width="1000" alt="Screenshot 2025-05-14 at 09 40 29" src="https://github.com/user-attachments/assets/75772cbc-aaea-429e-a2bf-acc550a6c888" />
-<h3>4. Ask a question related to the data</h3>
-<img width="1000" alt="Screenshot 2025-05-14 at 09 40 53" src="https://github.com/user-attachments/assets/94b68734-de27-4802-a4b1-77f84acb8b73" />
+<h3>1. Customer Churn Overview</h3>
+<img width="1550" height="700" alt="Screenshot 2025-07-11 at 5 27 50 PM" src="https://github.com/user-attachments/assets/4157f599-a41a-46ab-99d1-a29c99b564b2" /><br>
+
+<h3>2. Customer Detail Profiles</h3>
+<img width="1550" height="700" alt="Screenshot 2025-07-11 at 5 31 05 PM" src="https://github.com/user-attachments/assets/8f39d93e-b18e-4a73-a1d7-f38fa5736edc" />
+<br>
+
 
 ## [🔍 Final Conclusion & Recommendations](#-final-conclusion--recommendations) 
 <ul>
