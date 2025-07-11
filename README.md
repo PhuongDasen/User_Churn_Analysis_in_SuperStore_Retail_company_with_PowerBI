@@ -113,11 +113,10 @@ The dataset consists of three tables:
 	•	😒 Dissatisfaction: 16.17% left due to general service dissatisfaction.<br>
 	•	💸 Price Sensitivity: 11.31% churned due to pricing issues, despite average monthly charge being low.<br>
 	•	❓ Unknown Causes: 10.8% churned for “Other/Unknown” reasons—suggesting missing data or unclear survey results.<br>
- 
 ## ✅ Recommendations for Action
 
-	•	🔄 Introduce Loyalty Incentives: Convert more customers to annual or biannual contracts to reduce early churn.<br>
-	•	📞 Upgrade Support Services: Train support staff and implement satisfaction surveys to improve customer experience.<br>
-	•	💼 Competitive Benchmarking: Regularly monitor competitors’ offers to stay competitive in pricing and device quality.<br>
-	•	📊 Segment Targeting: Focus retention strategies on new customers and those on UDP/Intl Active plans.<br>
-	•	❔ Enrich Exit Surveys: Enhance churn feedback collection to reduce “unknown” churn reasons and tailor future strategies.<br>
+- 📦 **Introduce Loyalty Incentives**: Convert more customers to annual or biannual contracts to reduce early churn.
+- ☎️ **Upgrade Support Services**: Train support staff and implement satisfaction surveys to improve customer experience.
+- 💼 **Competitive Benchmarking**: Regularly monitor competitors’ offers to stay competitive in pricing and device quality.
+- 📊 **Segment Targeting**: Focus retention strategies on new customers and those on UDP/Intl Active plans.
+- ❓ **Enrich Exit Surveys**: Enhance churn feedback collection to reduce “unknown” churn reasons and tailor future strategies.
