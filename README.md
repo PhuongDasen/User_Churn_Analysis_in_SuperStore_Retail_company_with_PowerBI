@@ -66,18 +66,18 @@ The dataset consists of three tables:
 ---
 ## [🧠 Design Thinking Process](#-design-thinking-process)
 
-<b>Here are the five steps of design thinking:</b>
+<b>Here are the steps of design thinking:</b>
 
 <h3>Step 1 - Empathize</h3>
-<img width="1000" alt="Screenshot 2025-05-22 at 09 18 20" src="https://github.com/user-attachments/assets/00ddc19a-57fb-42fa-8e5b-0b5de45fc272" />
+<img width="1900" height="700" alt="Screenshot 2025-07-15 at 1 59 44 PM" src="https://github.com/user-attachments/assets/45d71597-85e2-450f-ad72-44ebaed5d73c" />
+<img width="1900" height="700" alt="Screenshot 2025-07-15 at 1 59 54 PM" src="https://github.com/user-attachments/assets/161d63fd-9f37-4acd-ac46-36c5bf934575" />
+<img width="1900" height="700" alt="Screenshot 2025-07-15 at 2 00 03 PM" src="https://github.com/user-attachments/assets/2e9bb50e-b560-49d3-8278-d499d7844881" />
+
 <h3>Step 2 - Define</h3>
-<img width="1000" alt="Screenshot 2025-05-22 at 09 18 30" src="https://github.com/user-attachments/assets/0a958352-800a-44cb-8452-121cc618df35" />
+<img width="1900" height="700" alt="Screenshot 2025-07-15 at 2 04 47 PM" src="https://github.com/user-attachments/assets/0f731ec8-13a8-4a87-8fc2-c01ab602d7d1" />
+
 <h3>Step 3 - Ideate</h3>
-<img width="1000" alt="Screenshot 2025-05-22 at 09 18 43" src="https://github.com/user-attachments/assets/5e44e451-2e8a-44f4-8e04-68bc7b31f4e7" />
-<h3>Step 4 - Prototype</h3>
-<img width="1000" alt="Screenshot 2025-05-22 at 09 18 52" src="https://github.com/user-attachments/assets/8ea64593-f592-4e34-b560-71a455561171" />
-<h3>Step 5 - Review</h3>
-<img width="1000" alt="Screenshot 2025-05-22 at 09 19 02" src="https://github.com/user-attachments/assets/66d9673b-7383-4167-88d1-188ebb6fa831" />
+<img width="1900" height="700" alt="Screenshot 2025-07-15 at 2 00 25 PM" src="https://github.com/user-attachments/assets/5dfc2749-601d-4685-8019-4703908e2339" />
 
 ## [📊 Key Insights & Visualizations](#-key-insights--visualizations)
 <h3>1. Customer Churn Overview</h3>
